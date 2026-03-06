@@ -306,6 +306,9 @@ button {
         color: #434455;
        
 }
+.mobile-menu-contacts-item:first-child .mobile-menu-contacts-link {
+   color: #4D5AE5;
+}
 
 
 .mobile-menu-socials-list {
@@ -914,6 +917,7 @@ align-items: center;
         row-gap: 72px;
         column-gap: 24px;
         width: 584px;
+        margin: 0 auto;
     }
     .footer-form-wrap{
         flex-direction: row;
